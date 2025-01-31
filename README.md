@@ -1,4 +1,4 @@
-# NYU_BrighspaceArchiver
+# NYU_BrightspaceArchiver
 A simple web crawler that downloads all the files for a course in NYU Brighspace and Zip according to the file hierarchy of Brighspace courses
 
 Make sure to PIP install all requirements
